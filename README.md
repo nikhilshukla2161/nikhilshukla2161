@@ -21,7 +21,7 @@ How to reach me **nikhilshukla2161@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/nikhilshukla01/"
+    href="https://linkedin.com/in/nikhilshukla01/"
     target="blank"
     ><img
       align="center"
