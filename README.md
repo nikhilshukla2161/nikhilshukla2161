@@ -6,7 +6,7 @@
   development and creating impactful projects.
 </h3>
 
-<p align="left">
+<p align="right">
   <img
     src="https://komarev.com/ghpvc/?username=nikhilshukla2161&label=Profile%20views&color=0e75b6&style=flat"
     alt="nikhilshukla2161"
